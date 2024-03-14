@@ -1,0 +1,40 @@
+body {
+  background-color: cyan;
+}
+
+table {
+  background-color: lightblue;
+}
+
+h1 {
+  color: white;
+}
+
+h2 {
+  color: white;
+}
+
+h3 {
+  color: white;
+}
+
+h4 {
+  color: white;
+}
+
+h5 {
+  color: white;
+}
+
+hr {
+  border: none;
+  border-top: 3px double black;
+  color: black;
+  overflow: visible;
+  text-align: center;
+  height: 5px;
+}
+
+p {
+  color: white;
+}
